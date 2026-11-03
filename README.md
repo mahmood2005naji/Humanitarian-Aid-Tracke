@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/34317242/README.md)
 # Humanitarian Aid Tracker
 
 A simple command-line program for tracking humanitarian aid inventory: record incoming shipments, distribute aid, search for items, and print an inventory report. Data is saved to a plain text file between runs.
